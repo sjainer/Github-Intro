@@ -7,7 +7,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Learn the basic skills we need for our EOH game._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
